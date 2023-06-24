@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "njfX87e2lZgqYtSWQvu5wOJ2NAU7xU/x+JyLZakRcED5FE4hJx2rm7Bwtd3Hofv13Cr6KPCALah4f1/DGXuTmg==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\github-integration\\github-integration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcus.dorbacao\\.nuget\\packages\\octokit\\6.1.0\\octokit.6.1.0.nupkg.sha512",
+    "C:\\Users\\marcus.dorbacao\\.nuget\\packages\\octokit.reactive\\6.1.0\\octokit.reactive.6.1.0.nupkg.sha512",
+    "C:\\Users\\marcus.dorbacao\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
